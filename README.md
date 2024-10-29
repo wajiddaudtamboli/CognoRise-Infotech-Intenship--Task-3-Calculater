@@ -3,7 +3,7 @@ Web Development Intenship
 ![Screenshot 2024-10-29 142149](https://github.com/user-attachments/assets/1c909f99-6faf-47be-beb4-68667d8ae632)
 
 
-# Calculator App
+# Calculator
 
 ## Overview
 This project is a basic calculator built using HTML, CSS, and JavaScript. It performs arithmetic operations such as addition, subtraction, multiplication, and division.
