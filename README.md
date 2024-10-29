@@ -2,6 +2,7 @@
 Web Development Intenship
 ![Screenshot 2024-10-29 142149](https://github.com/user-attachments/assets/1c909f99-6faf-47be-beb4-68667d8ae632)
 
+https://github.com/user-attachments/assets/1d58be6d-04b8-426c-90e4-6e90a9b37812
 
 # Calculator
 
