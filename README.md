@@ -1,4 +1,4 @@
-# CognoRise-Infotech-Intenship--Task-3-Calculater
+# CognoRise-Infotech-Intenship--Task-3-Calculator
 Web Development Intenship
 ![Screenshot 2024-10-29 142149](https://github.com/user-attachments/assets/1c909f99-6faf-47be-beb4-68667d8ae632)
 
